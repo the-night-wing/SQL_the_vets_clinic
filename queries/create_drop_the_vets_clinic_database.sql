@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS the_vets_clinic;
+CREATE DATABASE IF NOT EXISTS the_vets_clinic;
